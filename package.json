@@ -1,0 +1,25 @@
+{
+  "name": "todos-api",
+  "version": "1.0.0",
+  "description": "A small api library with an Express backend. Using this as a small refresher",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JarrodBlanton/todos-api.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "Jarrod Blanton",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JarrodBlanton/todos-api/issues"
+  },
+  "homepage": "https://github.com/JarrodBlanton/todos-api#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
